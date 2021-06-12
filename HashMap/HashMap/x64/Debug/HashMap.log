@@ -1,0 +1,44 @@
+﻿  HashMap.cpp
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(98,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(97): message : во время компиляции функции-члена класс шаблон "vty &HashTable<int,vty,std::hash<int>>::operator [](const kty)"
+          with
+          [
+              vty=int,
+              kty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(130): message : выполняется компиляция ссылки на экземпляр шаблон функции "vty &HashTable<int,vty,std::hash<int>>::operator [](const kty)"
+          with
+          [
+              vty=int,
+              kty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(124): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "HashTable<int,int,std::hash<int>>"
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(84,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(83): message : во время компиляции функции-члена класс шаблон "bool HashTable<int,int,std::hash<int>>::contains(kty)"
+          with
+          [
+              kty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(128): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool HashTable<int,int,std::hash<int>>::contains(kty)"
+          with
+          [
+              kty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(37,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(36): message : во время компиляции функции-члена класс шаблон "void HashTable<int,int,std::hash<int>>::insert(const kty,vty)"
+          with
+          [
+              kty=int,
+              vty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(125): message : выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<int,int,std::hash<int>>::insert(const kty,vty)"
+          with
+          [
+              kty=int,
+              vty=int
+          ]
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(48): message : во время компиляции функции-члена класс шаблон "void HashTable<int,int,std::hash<int>>::rehash(size_t)"
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(45): message : выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<int,int,std::hash<int>>::rehash(size_t)"
+C:\Универ\ОАиП\Новая папка\HashMap\HashMap\HashMap.cpp(110): warning C4715: HashTable<int,int,std::hash<int> >::operator[]: значение возвращается не при всех путях выполнения
+  HashMap.vcxproj -> C:\Универ\ОАиП\Новая папка\HashMap\x64\Debug\HashMap.exe

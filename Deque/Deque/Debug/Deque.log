@@ -1,0 +1,29 @@
+﻿  Deque.cpp
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(345,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(319,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(316): message : во время компиляции функции-члена класс шаблон "Deque<int>::Iterator Deque<int>::begin(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(339): message : выполняется компиляция ссылки на экземпляр шаблон функции "Deque<int>::Iterator Deque<int>::begin(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(338): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Deque<int>"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(322,42): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(128,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(123): message : во время компиляции функции-члена класс шаблон "void Deque<int>::pop_front(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(343): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Deque<int>::pop_front(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(66,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(62): message : во время компиляции функции-члена класс шаблон "void Deque<int>::push_back(T)"
+          with
+          [
+              T=int
+          ]
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(342): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Deque<int>::push_back(T)"
+          with
+          [
+              T=int
+          ]
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(42,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(41): message : во время компиляции функции-члена класс шаблон "Deque<int>::~Deque(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(338): message : выполняется компиляция ссылки на экземпляр шаблон функции "Deque<int>::~Deque(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(52,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(48): message : во время компиляции функции-члена класс шаблон "void Deque<int>::resize(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(117): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Deque<int>::resize(void)"
+C:\Univer\OAiP\Lab++\Deque\Deque\Deque.cpp(55,2): warning C4018: <: несоответствие типов со знаком и без знака
+  Deque.vcxproj -> C:\Univer\OAiP\Lab++\Deque\Debug\Deque.exe

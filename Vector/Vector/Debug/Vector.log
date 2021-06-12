@@ -1,0 +1,18 @@
+﻿  Vector.cpp
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(65,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(61): message : во время компиляции функции-члена класс шаблон "void Vector<int>::pop_back(void)"
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(201): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::pop_back(void)"
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(198): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(51,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(45): message : во время компиляции функции-члена класс шаблон "void Vector<int>::push_back(T)"
+          with
+          [
+              T=int
+          ]
+C:\Univer\OAiP\Lab++\Vector\Vector\Vector.cpp(199): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::push_back(T)"
+          with
+          [
+              T=int
+          ]
+  Vector.vcxproj -> C:\Univer\OAiP\Lab++\Vector\Debug\Vector.exe
